@@ -1,0 +1,46 @@
+  .Container1{
+  color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-width: 20px;
+  border: 50px;
+}
+.Dashboard{
+  color: maroon;
+  font-size: 50px;
+}
+.Button-Login{
+  width: 30px;
+  font-size: 30px;
+}
+.Container2 {
+  color: teal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-width: 20px;
+  border: 50px; 
+}
+.log-reg {
+  width: 400px;
+  height: 50px;
+  font-size: 30px;
+}
+.dash-reg {
+  width: 400px;
+  height: 50px;
+  font-size: 30px;
+}
+.dash-log{
+  width: 400px;
+  height: 50px;
+  font-size: 30px;
+}
+.log-dash{
+  width: 400px;
+  height: 50px;
+  font-size: 30px;
+}
